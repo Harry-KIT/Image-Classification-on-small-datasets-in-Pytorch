@@ -41,7 +41,7 @@ The aim is also to serve as a benchmark of algorithms and metrics for research o
 | elephant    |   0.91    |  0.93  |  0.92    |   113   |
 | rhino       |   0.94    |  0.91  |  0.93    |   113   |
 | zebra       |   0.98    |  0.96  |  0.97    |   113   |
-| ------------------------------------------------------|
+||
 | accuracy    |           |        |  0.94    |   452   |
 | macro avg   |   0.94    |  0.94  |  0.94    |   452   |
 | weighted avg|   0.94    |  0.94  |  0.94    |   452   |
