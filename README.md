@@ -50,7 +50,7 @@ In this repo, we will learn how to finetune and feature extract the torchvision 
 | weighted avg|   0.94    |  0.94  |  0.94    |   452   |
 
 ## Qualitative Results 
-### Grad-CAM images
+#### Grad-CAM images
 
 | Models   |  rhino   | buffalo |  elephant   |   zebra      |
 | ---------|-------|----------|------------|------------|
