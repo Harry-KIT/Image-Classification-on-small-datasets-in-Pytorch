@@ -34,7 +34,7 @@ In this repo, we will learn how to finetune and feature extract the torchvision 
 #### Squeezenet:
 | Training Accuracy | Training Loss | Confusion Matrix |
 | -----------------|-----------------------|-----------------|
-| <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/squeezenet-gradresults/acc.png" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/squeezenet-gradresults/loos.png" width="256" height="256"> |<img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/squeezenet-gradresults/confusion_matrix.png" width="256" height="256"> |
+| <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/squeezenet-gradresults/acc.png" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/squeezenet-gradresults/loss.png" width="256" height="256"> |<img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/squeezenet-gradresults/confusion_matrix.png" width="256" height="256"> |
 
 ------------
 
