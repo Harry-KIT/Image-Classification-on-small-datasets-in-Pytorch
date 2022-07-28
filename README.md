@@ -1,7 +1,5 @@
 # Image-Classification-on-small-datasets-in-Pytorch
-This is a package with state of the art methods for Explainable AI for computer vision.
-This can be used for observing processes while developing models and diagnosing model predictions.
-The aim is also to serve as a benchmark of algorithms and metrics for research of new explainability methods.
+In this repo, we will learn how to finetune and feature extract the torchvision models, all of which have been pretrained on the 1000-class Imagenet dataset. This repo will give an indepth look at how to work with modern CNN architectures, and will build an intuition for finetuning any PyTorch model. Since each model architecture is different, there is no boilerplate finetuning code that will work in all scenarios. Rather, the researcher must look at the existing architecture and make custom adjustments for each model.
 
 ## CNN and Vision Transformer models
 | Models             | Paper Links                                                                                                                 |
