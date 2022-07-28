@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+     buffalo       1.00      0.98      0.99       113
+    elephant       0.97      0.99      0.98       113
+       rhino       0.99      0.99      0.99       113
+       zebra       0.99      0.99      0.99       113
+
+    accuracy                           0.99       452
+   macro avg       0.99      0.99      0.99       452
+weighted avg       0.99      0.99      0.99       452
