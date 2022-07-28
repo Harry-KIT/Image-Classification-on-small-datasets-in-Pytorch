@@ -23,11 +23,11 @@ In this repo, we will learn how to finetune and feature extract the torchvision 
 
 | rhino | buffalo |
 | ------|---------|
- <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog12.jpg?raw=true" width="512" height="288"> | <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat12.jpg?raw=true" width="512" height="288"> |
+ <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog12.jpg?raw=true" width="400" height="225"> | <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat12.jpg?raw=true" width="400" height="225"> |
  
 | elephant | zebra |
 | ---------|-------|
- <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog12.jpg?raw=true" width="512" height="288"> | <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat12.jpg?raw=true" width="512" height="288"> | 
+ <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog12.jpg?raw=true" width="400" height="225"> | <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat12.jpg?raw=true" width="400" height="225"> | 
 
 
 ## Quantitative results
