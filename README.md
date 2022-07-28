@@ -23,11 +23,11 @@ In this repo, we will learn how to finetune and feature extract the torchvision 
 
 | rhino | buffalo |
 | ------|---------|
- <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog12.jpg?raw=true" width="500" height="281"> | <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat12.jpg?raw=true" width="500" height="281"> |
+ <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/rhino_sample_image.jpg?raw=true" width="375" height="211"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/buffalo_sample_image.jpg?raw=true" width="375" height="211"> |
  
 | elephant | zebra |
 | ---------|-------|
- <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog12.jpg?raw=true" width="500" height="281"> | <img src="https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat12.jpg?raw=true" width="500" height="281"> | 
+ <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/elephant_sample_image.jpg?raw=true" width="375" height="211"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/zebra_sample_image.jpg?raw=true" width="375" height="211"> | 
 
 
 ## Quantitative results
