@@ -51,7 +51,7 @@ In this repo, we will learn how to finetune and feature extract the torchvision 
 
 ## Qualitative Results
 
-| Models  |            Grad-CAM results                 |
+| Models  |        | Grad-CAM | results    |            |
 | ---------|-------|----------|------------|------------|
 | VGG             | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> |
 | AlexNet         | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> |<img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/examples/vgg-gradresults/buffalo_out.jpg" width="256" height="256"> |                                                                                        
