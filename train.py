@@ -127,6 +127,7 @@ def train():
 
     # if USE_GPU:
     #     model = torch.nn.DataParallel(model).cuda()
+    #     # or
     #     model = torch.nn.parallel.DistributedDataParallel(model)
 
     criterion = nn.CrossEntropyLoss()
