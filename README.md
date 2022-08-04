@@ -139,6 +139,9 @@ model = models.vgg19(weights=None, num_classes=4)
 ```
 
 ----------
+| ------|---------|
+ <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/Zebra-gif-resized.gif?raw=true" width="375" height="211"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/Zebra-attn-gif-resized.gif?raw=true" width="375" height="211"> |
+----------
 
 ## P.S
 Please give ⭐ to this repo if you find it useful. Stay tuned!
