@@ -1,5 +1,10 @@
 # Image-Classification-on-small-datasets-in-Pytorch
 In this repo, we will learn how to finetune and feature extract the torchvision models, all of which have been pretrained on the 1000-class Imagenet dataset. This repo will give an indepth look at how to work with modern CNN architectures, and will build an intuition for finetuning any PyTorch model. Since each model architecture is different, there is no boilerplate finetuning code that will work in all scenarios. Rather, the researcher must look at the existing architecture and make custom adjustments for each model.
+---------
+| Original | Grad-CAM-Video |
+| ------|---------|
+ <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/Zebra-gif-resized.gif?raw=true" width="375" height="211"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/Zebra-attn-gif-resized.gif?raw=true" width="375" height="211"> |
+---------
 
 ## CNN and Vision Transformer models
 | Models             | Paper Links                                                                                                                 |
@@ -138,10 +143,6 @@ model = models.vgg19(weights=None, num_classes=4)
 # model = models.swin_b(weights=None, num_classes=4)
 ```
 
-----------
-| Original | Grad-CAM-Video |
-| ------|---------|
- <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/Zebra-gif-resized.gif?raw=true" width="375" height="211"> | <img src="https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch/blob/main/samples1/Zebra-attn-gif-resized.gif?raw=true" width="375" height="211"> |
 ----------
 
 ## P.S
