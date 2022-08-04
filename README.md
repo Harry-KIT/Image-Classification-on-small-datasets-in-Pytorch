@@ -1,5 +1,6 @@
 # Image-Classification-on-small-datasets-in-Pytorch
 In this repo, we will learn how to finetune and feature extract the torchvision models, all of which have been pretrained on the 1000-class Imagenet dataset. This repo will give an indepth look at how to work with modern CNN architectures, and will build an intuition for finetuning any PyTorch model. Since each model architecture is different, there is no boilerplate finetuning code that will work in all scenarios. Rather, the researcher must look at the existing architecture and make custom adjustments for each model.
+
 ---------
 | Original | Grad-CAM-Video |
 | ------|---------|
